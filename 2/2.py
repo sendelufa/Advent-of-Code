@@ -7,7 +7,7 @@ filepath = "./input.txt"
 # C, Z - Scissors
 
 #   ↱ Scissors ↴
-#   Rock  →  Paper
+#   Rock  ←  Paper
 
 # X - must lose
 # Y - must draw

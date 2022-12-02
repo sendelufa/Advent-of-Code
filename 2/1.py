@@ -5,7 +5,7 @@ filepath = "./input.txt"
 # C, Z - Scissors
 
 #   ↱ Scissors ↴
-#   Rock  →  Paper
+#   Rock  ←  Paper
 
 scoreByResponse = {'X': 1, 'Y': 2, 'Z': 3}
 scoreBeat = {'X': 'C', 'Z': 'B', 'Y': 'A'}
